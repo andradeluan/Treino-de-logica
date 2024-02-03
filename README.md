@@ -1,2 +1,2 @@
-# Treino de lófica com python
+# Treino de lógica com python
 
