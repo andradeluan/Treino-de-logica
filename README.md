@@ -1,1 +1,2 @@
-# Logicamente-todo-dia
+# Treino de lófica com python
+
